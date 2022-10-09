@@ -1,0 +1,120 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+}
+
+h2 {
+    color: rgb(157, 38, 157);
+}
+
+div { 
+    display: inline-block;
+}
+
+.cuadrado {
+    height: 50px;
+    width: 125px;
+    padding: 20px;
+    margin: 4px;
+
+}
+
+.circulo {
+    height: 50px;
+    width: 125px;
+    border-radius: 50px;
+    margin: 4px;
+}
+
+.achatao {
+    border-radius: 25px;
+    margin: 4px;
+}
+
+.normal {
+    height: 50px;
+    width: 125px;
+}
+
+.pequeño {
+    height: 25px;
+    width: 65px;
+}
+
+.grande {
+    height: 75px;
+    width: 175px;
+}
+
+.rellenogris{
+    background-color: grey;
+    color: black;
+    border-color: grey;
+}
+
+.rellenoazul{
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+
+.rellenoverde{
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+
+.rellenoazulclaro{
+    background-color: lightblue;
+    color: white;
+    border-color: lightblue;
+}
+
+.rellenoamarillo{
+    background-color: yellow;
+    color: white;
+    border-color: yellow;
+}
+
+.rellenorojo{
+    background-color: red;
+    color: white;
+    border-color: red;
+}
+
+
+.vaciogris{
+    background-color: white;
+    color: grey;
+    border: grey;
+}
+
+.vacioazul{
+    background-color: white;
+    color: blue;
+    border-color: blue;
+}
+
+.vacioverde{
+    background-color: white;
+    color: green;
+    border-color: green;
+}
+
+.vacioazulclaro{
+    background-color: white;
+    color: lightblue;
+    border-color: lightblue;
+}
+
+.vacioamarillo{
+    background-color: white;
+    color: yellow;
+    border-color: yellow;
+}
+
+.vaciorojo{
+    background-color: white;
+    color: red;
+    border-color: red;
+}

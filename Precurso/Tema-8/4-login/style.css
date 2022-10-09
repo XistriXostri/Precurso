@@ -1,0 +1,63 @@
+body {
+    background-color: greenyellow;
+    font-family: "Overpass", sans-serif;
+}
+
+#container {
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#center {
+    display: flex;
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#loginform {
+    padding: 30px 50px 10px 50px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    font-size: 110%;
+    background-color: rgb(245 238 238);
+    border: none;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+button {
+    font-size: 110%;
+    background-color: green;
+    padding: 15px;
+    width: 250px;
+    color: white;
+    border: none;
+}
+
+#forgot-form {
+    text-align: center;
+    display: block;
+    align-items: center;
+    margin-top: 10px;
+}
+
+p{
+    font-size: 80%;
+    color: rgb(175, 168, 168);
+}
+
+a {
+    color: greenyellow;
+    text-decoration: none;
+}

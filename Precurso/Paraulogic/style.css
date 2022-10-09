@@ -1,0 +1,16 @@
+/* Selector de etiqueta */
+body {
+    background-color: saddlebrown;
+    color: azure;
+  }
+  /* Selector de clase*/
+  .highlighted {
+    text-decoration: underline;
+  }
+  .form-group {
+    margin: 1rem 0rem;
+  }
+  /* Selector de id
+  #p1
+  No se usan en CSS
+  */

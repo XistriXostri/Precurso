@@ -1,0 +1,16 @@
+img {
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin: 20px;
+}
+
+div{
+    text-align: justify;
+    float: left;
+    font-weight: bold;
+}
+
+div:hover {
+    background-color: lightgray;
+}

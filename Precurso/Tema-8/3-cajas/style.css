@@ -1,0 +1,19 @@
+
+p {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    justify-content: center;
+    display: inline-grid;
+    color: grey;
+    background-color: lightgrey;
+    border: 5px solid;
+    border-color: white;
+    align-content: center;
+    margin: 5px;
+}
+
+
+body {
+    background-color: rgb(44, 43, 43);
+}
