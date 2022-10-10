@@ -6,4 +6,5 @@
 
 ## Samples
 
+- Cats
 - Dogs
